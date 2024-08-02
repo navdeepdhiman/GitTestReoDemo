@@ -1,4 +1,4 @@
-package classobjects;
+package initializewithmethods;
 
 public class Car {
 
@@ -10,14 +10,14 @@ public class Car {
 	 
 	 public void startCar() {
 		 
-		 System.out.println("car from this " +company+ " having " +model+ " has started" );
+		 System.out.println("car from the company " +company+ " having " +model+ " model has started" );
 		 
 		 
 	 }
 	 
 	public void stopCar() {
 		
-		System.out.println("Car from this " +company+ " having " +model+ " has stopped");
+		System.out.println("Car from the company " +company+ " having " +model+ " model has stopped");
 
 	}
 	
@@ -29,7 +29,6 @@ public class Car {
 		System.out.println("price of the car is:" +price );
 		System.out.println("Color of the car is:" +color );
 		
-		
-	}
+			}
 	
 }

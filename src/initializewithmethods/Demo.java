@@ -1,4 +1,4 @@
-package classobjects;
+package initializewithmethods;
 
 public class Demo {
 	
